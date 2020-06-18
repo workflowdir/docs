@@ -1,5 +1,6 @@
 ---
 title: Automatically resizing images
+parent: Tutorials
 tags:
 - tutorial
 ---
