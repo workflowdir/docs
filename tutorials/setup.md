@@ -1,5 +1,5 @@
 ---
-title: WorkflowDir Setup
+title: Setup
 parent: Tutorials
 tags:
 - tutorial
