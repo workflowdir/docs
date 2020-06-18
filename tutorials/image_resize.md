@@ -27,7 +27,7 @@ This directory will be the "drop" location for any image needing resizing.
 Let's get up and running with `wfd`:
 
     pushd ~/Desktop/LargeImages
-    wfd inid
+    wfd init
 
 ### Create our resize action
 
