@@ -10,7 +10,7 @@
   * This creats a new file! check it out, it's called .flowyrc
 6. Open that file! (vim .flowyrc)
 7. Place the following into .flowyrc
-```
+```bash
 #!/bin/bash
 
 mv $filepath ../HelloWorld.txt
